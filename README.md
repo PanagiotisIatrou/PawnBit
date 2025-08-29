@@ -17,7 +17,7 @@ Note that the mouse is being moved by python
 2) Download Stockfish from https://stockfishchess.org/  
    **Note** that on Linux systems you must manually add execute permissions to the stockfish executable
 3) Open a Terminal
-4) `cd chess-auto-bot`
+4) `cd pawn-bit`
 5) Windows: `python -m venv venv`  
    Linux: `python3 -m venv venv`
 6) Windows: `venv\Scripts\pip.exe install -r requirements.txt`  
@@ -25,7 +25,7 @@ Note that the mouse is being moved by python
 
 ## How to use
 1) Open a Terminal
-2) `cd chess-auto-bot`
+2) `cd pawn-bit`
 3) Windows: `venv\Scripts\python.exe src\gui.py`  
    Linux: `venv/bin/python3 src/gui.py`
 4) Click Select Stockfish on the GUI that opens. This will open a file explorer. Navigate to the folder where you downloaded Stockfish and select the Stockfish executable.
