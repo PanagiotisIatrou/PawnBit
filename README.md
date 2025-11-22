@@ -62,6 +62,11 @@ Note that the mouse is being moved by python
 - Slow Mover option (defaults to 100, 10 &le; Slow Mover &le; 1000)  
   lower values will make Stockfish take less time in games, higher values will make it think longer
 - Exporting finished games to PGN
+- W/D/L, accuracy and material statistics tracking
+- Evaluation bar display on the side
+
+## Future features
+- Random delays in between moves to simulate human behavior
 
 ## Disclaimer
 Under no circumstances should you use this bot to cheat in online games or tournaments. This bot was made for educational purposes only.
